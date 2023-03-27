@@ -75,8 +75,6 @@ Monsieur Do souhaite que le site soit déployé au plus tard vendredi 31 mars à
 
 Mr Do souhaite que nous créions un thème personnalisé uniquement pour sont site , Il pense que cela permettra au site de ressemblais a sont journal et ne pas dépayser les utilisateurs existants
 
-## Maquettes et fiche persona
-
-Ajouter liens figma
+## Maquettes
 
 ![Alt text](Maquette_lepays.png?raw=true "Title")
