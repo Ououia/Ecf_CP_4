@@ -1,0 +1,3 @@
+Le journal local “Le Pays” souhaite se moderniser et créer un site internet pour relayer les informations de sa version papier. Monsieur Do le directeur du journal, est très attaché au papier et au confort de lecture que peut fournir ce support.
+
+Monsieur Do souhaite conserver le rôle premier du journal qui est d’informer et de présenter les informations de manière chronologique pour prioriser la une des informations du jour. Enfin, monsieur Do souhaite rendre ce site internet accessible sur mobile, car il veut atteindre des lecteurs plus jeunes et familiarisés avec la technologie.

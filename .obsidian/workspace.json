@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "160c22b3d9fc4ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "380413462d639425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf6cead1a7e2262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cahier des Charges Journal Le Pays.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05c4b3ad45ef0809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contraintes et Exigences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74460e9251d9975a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cahier des Charges Journal Le Pays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "361b288ee5cb6d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7277addfee0ee91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9697d3574569f78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df8e69b58fbd4720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82cc479aebc01826",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fc795d7e51f404c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eed8845a03e21e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12dc33f970750812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cahier des Charges Journal Le Pays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ccc3fd1ef0b9fdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cahier des Charges Journal Le Pays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8da07b0f1187a46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "706a3f6e3f47d60e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cahier des Charges Journal Le Pays.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "74460e9251d9975a",
+  "lastOpenFiles": [
+    "Fonctionnalités existantes.md",
+    "Contraintes et Exigences.md",
+    "Cahier des Charges Journal Le Pays.md",
+    "Présentation du projet.md",
+    "Sans titre",
+    "Fiche Persona.md",
+    "WireFrame du site.md",
+    "Objectif et périmètre du projet.md",
+    "Présentation du Journal Le Pays.md"
+  ]
+}
