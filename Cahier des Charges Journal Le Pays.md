@@ -79,4 +79,4 @@ Mr Do souhaite que nous créions un thème personnalisé uniquement pour sont si
 
 ![Alt text](maquette.png?raw=true "Title")
 
-![Alt text](arboresence.png.png?raw=true "Title")
+![Alt text](arboresence.png?raw=true "Title")
