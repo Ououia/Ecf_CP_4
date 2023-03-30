@@ -1,3 +1,5 @@
+#SITE EN LIGNE SUR# : https://copycat.pacificproweb.nc/ 
+
 ##INSTALLATION WORDPRESS :
 
 1 - Ouvrez le panneau de contrôle de XAMPP et démarrez les modules Apache et MySQL.
