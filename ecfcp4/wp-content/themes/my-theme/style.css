@@ -1,0 +1,63 @@
+/*
+Theme Name: Theme Jo
+Author: Ououia
+*/
+html {
+  overflow-x: hidden;
+}
+body {
+  font-family: fantasy;
+}
+
+.modal-backdrop {
+  opacity: 0.8 !important;
+}
+
+img.w-100.h-100.rounded-0.wp-post-image {
+  max-height: 35em;
+}
+
+img.card-img-top.rounded-0 {
+  min-height: 12em;
+}
+
+.card-text {
+  font-family: serif;
+  font-size: 18px;
+}
+
+@media (min-width: 768px) {
+  .toparticlewidth {
+    width: 100%;
+  }
+  .cardevent {
+    width: 100%;
+  }
+}
+
+@media (min-width: 576px) {
+  .toparticlewidth {
+    width: 50%;
+  }
+  .cardevent {
+    width: 50%;
+  }
+}
+.elementor-widget-container {
+  font-family: system-ui;
+}
+
+.custom-border {
+  position: relative; /* Ensures the pseudo-element is positioned relative to this element */
+  padding-bottom: 5px; /* Adds some space below the content for the border */
+}
+
+.custom-border::after {
+  content: ""; /* Necessary for the pseudo-element to be generated */
+  position: absolute; /* Allows precise positioning of the border */
+  bottom: 0; /* Positions the border at the bottom of the .custom-border element */
+  left: 50%; /* Centers the border horizontally */
+  width: 10%; /* Set the desired width of the border */
+  transform: translateX(-50%); /* Adjusts the position to truly center the border */
+  border-bottom: 3px solid #ffffff; /* Set the border style, width, and color */
+}
