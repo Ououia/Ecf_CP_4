@@ -77,4 +77,4 @@ Mr Do souhaite que nous créions un thème personnalisé uniquement pour sont si
 
 ## Maquettes
 
-![Alt text](Maquette.png?raw=true "Title")
+![Alt text](maquette.png?raw=true "Title")
