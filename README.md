@@ -1,6 +1,6 @@
-#SITE EN LIGNE SUR# : https://copycat.pacificproweb.nc/ 
+# SITE EN LIGNE SUR : https://copycat.pacificproweb.nc/ 
 
-##INSTALLATION WORDPRESS :
+## INSTALLATION WORDPRESS :
 
 1 - Ouvrez le panneau de contrôle de XAMPP et démarrez les modules Apache et MySQL.
 
@@ -12,7 +12,7 @@
 
 5 - Suivez les instructions pour terminer la configuration de WordPress
 
-##INSTALLATION DU SITE ECFCP4 :
+## INSTALLATION DU SITE ECFCP4 :
 
 1 - Ouvrir le repo github https://github.com/Ououia/Ecf_CP_4
 
@@ -68,4 +68,4 @@ et enregistrer le fichier !
 
 12 - Vous pouvez vous connectez a l'admin de ce wordpress http://localhost/{nom_de_votre_fichier_dans_le_htdocs}/wp-admin avec un compte crée pour vous et que je vous donnerais sur teams
 
-##FELICITATION !!!!
+## FELICITATION !!!!
