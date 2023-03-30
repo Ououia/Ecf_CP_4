@@ -32,29 +32,29 @@
 
 8 - Il faut augmenter la taille de fichier autorisé , cela parait compliquer mais avec ce tutoriel ca sera tres simple :
 
-    1 - Rendez vous dans le fichier de votre site wordpress
+1 - Rendez vous dans le fichier de votre site wordpress
 
-    ![Alt text](/assets/augmentation.png?raw=true "Title")
+![Alt text](/assets/augmentation.png?raw=true "Title")
 
-    2 - ouvrez le fichier .htaccess avec bloc-note
+2 - ouvrez le fichier .htaccess avec bloc-note
 
-    le fichier ressemble a ca :
+le fichier ressemble a ca :
 
-    ![Alt text](/assets/htacess.png?raw=true "Title")
+![Alt text](/assets/htacess.png?raw=true "Title")
 
-    Rajouter les lignes
+Rajouter les lignes
 
-    php_value upload_max_filesize 128M
-    php_value post_max_size 128M
-    php_value memory_limit 256M
-    php_value max_execution_time 300
-    php_value max_input_time 300
+php_value upload_max_filesize 128M
+php_value post_max_size 128M
+php_value memory_limit 256M
+php_value max_execution_time 300
+php_value max_input_time 300
 
-    comme ceci :
+comme ceci :
 
-     ![Alt text](/assets/htacessmodified.png?raw=true "Title")
+![Alt text](/assets/htacessmodified.png?raw=true "Title")
 
-    et enregistrer le fichier
+et enregistrer le fichier !
 
 8 - Retournez sur votre wordpress et rafraichir la page ( raccourcis : F5 ), la taille autorisé devrais maintenant etre 128 Mo
 
